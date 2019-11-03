@@ -1,0 +1,5 @@
+Reverse Engineering Malware:
+
+These pieces of code arent ment to do anthing crazy. Im just playing around with coding.  Most pieces of code will be sourced from various internet 
+
+
